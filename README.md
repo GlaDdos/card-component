@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](https://github.com/GlaDdos/card-component/blob/screenshot/src1.jpg)
-![mobile](https://github.com/GlaDdos/card-component/blob/screenshot/src2.jpg)
+![desktop](../master/screenshot/src1.jpg)
+![mobile](../master/screenshot/src2.jpg)
 
 ### Links
 
